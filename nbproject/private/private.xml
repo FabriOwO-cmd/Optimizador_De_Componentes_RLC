@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/LeyCombinacion.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/LeyResistencia.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/LeyInductor.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/LeyCapacitor.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/ComponentePasivo.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/Resistencia.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/Inductor.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/Capacitor.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/Inventario.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/Circuito.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/ResistenciaSimple.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/CircuitoSerie.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/CircuitoParalelo.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/modelo/CircuitoMixto.java</file>
+            <file>file:/D:/Fabricio/Academico/ProyectosJava/OptimizadorComponentes/src/control/CalcularCombinaciones.java</file>
+        </group>
+    </open-files>
+</project-private>
